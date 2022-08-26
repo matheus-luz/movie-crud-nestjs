@@ -34,7 +34,7 @@ npm install
 
 ```bash
 # docker postgres
-  npm run compose:up
+npm run compose:up
 
 # development
 npm run start
