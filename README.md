@@ -33,6 +33,9 @@ npm install
 ## Rodando o App
 
 ```bash
+# docker postgres
+  npm run compose:up
+
 # development
 npm run start
 
